@@ -1,4 +1,4 @@
-# NexusChat Web - Messaging & Video Platform
+# NexusChat Web - Plataforma de Mensajes y Videollamadas
 
 NexusChat es una aplicación de mensajería en tiempo real que combina la robustez de **Spring Boot** en el servidor con la fluidez de **React** en el cliente. Diseñada bajo una estética moderna de *Glassmorphism*, ofrece una experiencia de comunicación completa que incluye chat público, mensajes directos, intercambio de multimedia y videollamadas.
 
