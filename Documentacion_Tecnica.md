@@ -78,9 +78,10 @@ sequenceDiagram
     S->>U2: Reenviar VIDEO_OFFER a destino privado
     U2->>S: Enviar VIDEO_ANSWER (SDP)
     S->>U1: Reenviar VIDEO_ANSWER
-    U1<-->>U2: Intercambio de ICE Candidates (Vía WS)
+    U1-->>U2: Intercambio de ICE Candidates (Vía WS)
+    U2-->>U1: Intercambio de ICE Candidates (Vía WS)
     Note over U1,U2: Conexión P2P establecida directamente
-    U1<==>U2: Flujo de Vídeo/Audio (Fuera del Servidor)
+    U1-->>U2: Flujo de Vídeo/Audio (Directo)
 ```
 
 ---
