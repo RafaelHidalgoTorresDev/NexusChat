@@ -2,7 +2,7 @@
 
 NexusChat es una aplicación de mensajería en tiempo real que combina la robustez de **Spring Boot** en el servidor con la fluidez de **React** en el cliente. Diseñada bajo una estética moderna de *Glassmorphism*, ofrece una experiencia de comunicación completa que incluye chat público, mensajes directos, intercambio de multimedia y videollamadas.
 
-![NexusChat Preview](https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2070&auto=format&fit=crop)
+![NexusChat Preview](./preview.png)
 
 ## 🚀 Características Principales
 
@@ -56,4 +56,4 @@ NexusChat/
 ```
 
 ## 📝 Autor
-Proyecto desarrollado para la asignatura de Programación de Servicios y Procesos (PSP).
+Proyecto desarrollado por Rafael Hidalgo Torres.
