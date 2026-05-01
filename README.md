@@ -4,6 +4,11 @@ NexusChat es una aplicación de mensajería en tiempo real que combina la robust
 
 ![NexusChat Preview](./preview.png)
 
+## 📺 Demo en Vídeo
+
+![NexusChat Demo](./VideoDemoNexusChat.mp4)
+
+
 ## 🚀 Características Principales
 
 - **Mensajería Instantánea**: Comunicación bidireccional de baja latencia mediante WebSockets y protocolo STOMP.
